@@ -1,0 +1,9 @@
+.home {
+    background-color: #f4f4f4;
+}
+#logo {
+    width: 2.5rem;
+    height: 2.5rem;
+    position: absolute;
+    left: 1rem;  
+}
